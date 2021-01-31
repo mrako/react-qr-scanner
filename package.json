@@ -71,7 +71,7 @@
     "webrtc-adapter": "^7.7.0"
   },
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }
